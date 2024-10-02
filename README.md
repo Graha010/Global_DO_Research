@@ -8,7 +8,8 @@
 
 DynQual v1.1 can be installed following similar steps as for DynQual v1.0 (https://github.com/UU-Hydro/DYNQUAL). Note that DynQual v1.1 includes the ability to simulate dissolved oxygen (DO) concentration, whereas DynQual v1.0 focuses solely on water temperature (Tw), biochemical oxygen demand (BOD), total dissolved solids (TDS) and faecal coliform (FC). 
 
-2.1. Clone or download the DynQual v1.1 repository into the current working directory. 
+2.1. Clone or download the DynQual v1.1 repository into the current working directory:
+
 git clone https://github.com/Graha010/DYNQUAL.git 
 
 2.2. You will need a working Python environment, we recommend to install Miniconda, particularly for Python 3. Follow their instructions given at https://docs.conda.io/en/latest/miniconda.html. The user guide and short reference on conda can be found at https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html.
