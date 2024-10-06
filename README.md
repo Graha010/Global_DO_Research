@@ -6,7 +6,7 @@
 
 2. Installation guide
 
-DynQual v1.1 can be installed following similar steps as for DynQual v1.0 (https://github.com/UU-Hydro/DYNQUAL). Note that DynQual v1.1 includes the ability to simulate dissolved oxygen (DO) concentration, whereas DynQual v1.0 focuses solely on water temperature (Tw), biochemical oxygen demand (BOD), total dissolved solids (TDS) and faecal coliform (FC). 
+DynQual v1.1 can be installed following similar steps as for DynQual v1.0 (https://github.com/UU-Hydro/DYNQUAL). Within DynQual v1.1, water temperature (Tw) is simulated by solving the surface water energy balance, dissolved oxygen (DO) is simulated by solving the Streeter-Phelps equation, while TDS, BOD and FC concentrations are simulated accounting for both the dilution capacity and in-stream decay processes.
 
 2.1. Clone or download the DynQual v1.1 repository into the current working directory:
 
